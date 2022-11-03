@@ -5,10 +5,10 @@
 
 > My goal in this project was to wrangle 'WeRateDogs' twitter data in order to deliver more accurate analyses, assessments, conclusions and visualizations.
 My data wrangling process can be highlighted under the following headers:
-data gathering
-data assessment
-data cleaning
-data re-purposing
+* data gathering
+* data assessment
+* data cleaning
+* data re-purposing
 
 > I was given 3 datasets to work with: 'Enhanced Twitter Archive', 'Image Prediction File' and 'Additional Data via Twitter API'.
 The data gathering stage involved extracting the required data from each of these files using techniques specific to each file type and source.
